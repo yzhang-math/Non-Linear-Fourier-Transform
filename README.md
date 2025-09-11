@@ -1,6 +1,6 @@
 # Nonlinear Fourier Transform: Numerical Experiments
 
-A collection of numerical experiments and implementations exploring the Nonlinear Fourier Transform (NFT) and its applications in integrable systems, signal processing, and optical communications.
+A collection of numerical experiments and implementations exploring the Nonlinear Fourier Transform (NLFT) and its applications in integrable systems, signal processing, and optical communications.
 
 ## Overview
 
@@ -17,7 +17,7 @@ The Nonlinear Fourier Transform is a powerful mathematical tool that extends the
 
 ## Mathematical Background
 
-The Nonlinear Fourier Transform is based on the spectral theory of integrable nonlinear partial differential equations, particularly the Nonlinear Schrödinger Equation (NLSE):
+The Nonlinear Fourier Transform is based on the spectral theory of integrable nonlinear partial differential equations, particularly the Nonlinear Schrödinger Equation (NLS):
 
 ```
 i∂u/∂t + ∂²u/∂x² + 2|u|²u = 0
